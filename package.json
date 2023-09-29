@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "... your custom build command would go here ...",
+    
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
